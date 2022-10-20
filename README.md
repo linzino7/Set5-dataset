@@ -1,3 +1,5 @@
+Super Resolution with different cv resize method
+============================================
 # Set5-dataset
 This Rep. privde set5 datasets for super resolution task from [Original Paper](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html).
 
@@ -11,7 +13,7 @@ Image downloaded by [here](https://cv.snu.ac.kr/research/EDSR/benchmark.tar) fro
 ![butterfly LR](https://github.com/linzino7/Set5-dataset/blob/main/Set5/LR_bicubic/X2/butterflyx2.png)
 
 
-# Super Resolution with different cv resize method
+# Experiment
 本實驗主要目標為測試不同的 opencv 縮小方法是否會影響深度學習方法在Super Resolution任務上的影響。
 圖片使用 [SR論文(2012)](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html) 標準Set5中蝴蝶的圖片。
 
